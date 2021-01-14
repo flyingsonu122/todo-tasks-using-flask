@@ -1,3 +1,7 @@
+# A TODO App 
+
+> This app is made using **flask** and it stores tasks of every users seperately in the database sessions.
+
 <br><br><br><br><br><br>
 
 
